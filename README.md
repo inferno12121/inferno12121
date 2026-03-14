@@ -101,8 +101,7 @@ Leading the shift towards **security-integrated cloud transformations** where:
 ## 💼 Let's Connect
 
 - 🔗 **GitHub**: [inferno12121](https://github.com/inferno12121)
-- 💼 **LinkedIn**: [Abdul Hubbali](https://linkedin.com/in/abdul-hubbali)
-- 📧 **Email**: [Contact Me](mailto:your-email@example.com)
+- 💼 **LinkedIn**: [Abdul Hubbali](https://www.linkedin.com/in/abdul-hubbali-54670813b)
 
 ---
 
